@@ -1,4 +1,4 @@
-# Full stack Application to EVVENT 
+# Full stack Application for EVVENT
 This Application is an authenticated Todo app with TRPC, Next.js, Prisma, Tailwind.
 The app uses optimistic updates for all mutations.
 Auth is via magic link email.
