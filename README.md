@@ -13,3 +13,5 @@ For using the app make sure all dependencies are installed with an 'npm i' in th
 Then you can start the app typing 'npm run dev' and Ctrl + Click in the url: http://localhost:3000 
 after entering the email and in the confirmation page the link is sent to the console back in the project terminal
 where 'npm run dev' ran. Ctrl + Click and it'll send you back to the app and you'll be able to use it
+(The idea is to send the link to the email provided by the user through an automatic email sending service)
+The netlify version can't do this email auth
